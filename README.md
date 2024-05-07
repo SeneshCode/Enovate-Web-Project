@@ -1,7 +1,7 @@
 <p align="center"><a href="https://enovate.wuaze.com" target="_blank"><img src="public/enovate.png" width="400" alt="Enovate Logo"></a></p>
 
 <p align="center">
-    <div>build by <a href="https://seneshpawan.epizy.com" target="_blank">Senesh Pawan</a></div>
+    build by <a href="https://seneshpawan.epizy.com" target="_blank">Senesh Pawan</a>
 </p>
 
 ## About Enovate Web Project Repository
